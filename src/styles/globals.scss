@@ -1,0 +1,38 @@
+:global(body.dark-mode) {
+	background-color: black;
+	color: white;
+}
+
+* {
+	-webkit-tap-highlight-color: transparent;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+:global(body) {
+	font-family: var(--font-fragment-mono);
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	color: black;
+}
+
+:global(button) {
+	background: none;
+	border: none;
+	cursor: pointer;
+	color: inherit;
+	font-size: var(--font-size-14);
+
+	&:disabled {
+		cursor: not-allowed;
+		color: var(--placeholder-gray);
+	}
+}
+
+:global(button, textarea) {
+	font-family: var(--font-fragment-mono);
+}

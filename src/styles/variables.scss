@@ -1,0 +1,39 @@
+$bp-large: 1150px;
+$bp-medium: 660px;
+$bp-small: 475px;
+
+:root {
+	--font-fragment-mono: 'Fragment Mono', sans-serif;
+
+	--bp-large: 1150px;
+	--bp-medium: 660px;
+	--bp-small: 475px;
+
+	--red: #ff7777;
+	--green: #6adab8;
+	--orange: #ffb240;
+	--gray: #848484;
+
+	--light-gray: #efefef;
+	--hover-gray: #f7f7f7;
+	--placeholder-gray: #bbbbbb;
+	--border-gray: #cecece;
+
+	--dark-mode-gray: #1e1e1e;
+	--dark-mode-dark-gray: #090909;
+	--dark-mode-light-gray: #3a3a3a;
+	--dark-mode-hover-gray: #171717;
+
+	--font-size-14: 14px;
+	--font-size-16: 16px;
+
+	--spacing-5: 5px;
+	--spacing-10: 10px;
+	--spacing-15: 15px;
+	--spacing-20: 20px;
+	--spacing-25: 25px;
+	--spacing-30: 30px;
+	--spacing-40: 40px;
+	--spacing-50: 50px;
+	--spacing-60: 60px;
+}
