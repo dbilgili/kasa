@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dbilgili/kasa/assets/22943912/e7e3df36-90b0-4c18-a68f-41073fea477b" height="100" width="100">
+  <img src="https://github.com/dbilgili/kasa/assets/22943912/d5ba9e49-2977-4b8c-abeb-09009d83b797" height="100" width="100">
   <h1 align="center">KASA</h1>
 </p>
 
@@ -15,5 +15,5 @@ To get started, create KV storage on your Vercel project and add the environment
 <br/>
 
 <p align="center">
-<img src="https://github.com/dbilgili/kasa/assets/22943912/89ac4e32-d65d-43c3-bf15-8e74fcb8a75b" style="width: 100%; max-width: 1000px;">
+<img src="https://github.com/dbilgili/kasa/assets/22943912/f498a7c2-003e-4216-82e9-05b4b0551d00" style="width: 100%; max-width: 1000px;">
 </p>
