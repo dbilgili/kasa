@@ -17,7 +17,7 @@ export const PUT = (async ({ request }) => {
 		if (env.KV_KEY_NAME) {
 			await setKV(`${env.KV_KEY_NAME}_salt`, salt);
 			await setKV(`${env.KV_KEY_NAME}_hash`, hashedPassword);
-			await setKV(env.KV_KEY_NAME, body.generatedCipherText);
+			await setKV(env.KV_KEY_NAME, body.cipherText);
 		} else {
 			error(500, 'Missing KV_KEY_NAME');
 		}
