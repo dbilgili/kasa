@@ -10,8 +10,6 @@ Kasa is a password manager that you can self-serve and access from virtually any
 
 To get started, create a KV storage on your Vercel project and make sure to add the environment variables to your project, which are listed in the `.env.example` file. `KV_KEY_NAME` is a unique environment variable that you need to set. This key stores the encrypted data. `STORAGE_TYPE` should be set to `vercel-kv`. It can also be set to `local` for local testing purposes. The rest of the environment variables comes from the KV storage itself.
 
-To get started, create KV storage on your Vercel project and add the environment variables to your project, as listed in the `.env.example` file. `KV_KEY_NAME` is a unique environment variable that you need to choose. This key stores the encrypted data. The rest of the environment variables come from the KV storage itself.
-
 <br/>
 
 <p align="center">
